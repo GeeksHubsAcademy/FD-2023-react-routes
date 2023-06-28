@@ -1,5 +1,6 @@
-.home {
-    height: 80vh;
+.footer {
+    height: 10vh;
+    background-color: tomato;
     display: flex;
     justify-content: center;
     align-items: center;
