@@ -1,14 +1,15 @@
 import Home from "./pages/Home/Home";
+import Contact from "./pages/Contact/Contact";
+import Project from "./pages/Projects/Project";
 import './App.css'
 
 function App() {
-  const Contact = () => <h1>Contacto</h1>;
 
   return ( 
     <>
       <Home />
       <Contact />      
-      <h1>Proyectos</h1>
+      <Project />
     </>  
   )
 }
